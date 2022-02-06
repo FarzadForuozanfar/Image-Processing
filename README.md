@@ -10,5 +10,13 @@
   - Rotate 180 Deg Image:
   - ![3result](https://user-images.githubusercontent.com/91725214/152673535-61cd5927-25f0-47b3-b3b7-342ebb15e9f6.jpg)
   
-  -
+  - Masking Wolf:
+  - ![result_4](https://user-images.githubusercontent.com/91725214/152674211-19c5be3f-4a1b-4060-b973-2516ce9d66c2.png)
+ 
+  - Consolation_tape :
+  - ![Consolation_tape](https://user-images.githubusercontent.com/91725214/152675431-c1d55cca-7327-49e1-bfc3-f2477879c1ff.png)
+
+  - 
+
+  
 
