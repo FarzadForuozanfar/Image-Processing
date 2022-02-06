@@ -16,7 +16,14 @@
   - Consolation_tape :
   - ![Consolation_tape](https://user-images.githubusercontent.com/91725214/152675431-c1d55cca-7327-49e1-bfc3-f2477879c1ff.png)
 
-  - 
+  - Gradual black white :
+  - ![result_6](https://user-images.githubusercontent.com/91725214/152676630-8b4e2647-fa8d-4bea-9869-1be8ed356bc0.png)
+  
+  
+  - Character F with Cv2:
+  - ![result_7](https://user-images.githubusercontent.com/91725214/152676643-627cf239-c991-4eb1-8f6c-056a3cbf2506.jpg)
+
+
 
   
 
