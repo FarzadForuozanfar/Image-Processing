@@ -23,6 +23,26 @@
   - Character F with Cv2:
   - ![result_7](https://user-images.githubusercontent.com/91725214/152676643-627cf239-c991-4eb1-8f6c-056a3cbf2506.jpg)
 
+## Assignment 22:
+
+  - Find secret between 2 Img with cv2.Subtrack() :
+  - ![result1](https://user-images.githubusercontent.com/91725214/153248708-8d30dbea-4ca0-4c80-a3ff-38eba8343e92.png)
+ 
+  - black hole reduce noise and merging :
+  -  ![result2](https://user-images.githubusercontent.com/91725214/153248979-1dccc8bf-ffba-44cd-96ea-4df9dbf1cf5e.png)
+  
+  - find diffrent between tow electronic_board :
+  -  ![result3](https://user-images.githubusercontent.com/91725214/153249224-0dc27f8f-cfe8-47d4-b74a-0905cf2a464a.jpg)
+  -  hidden car in highway :
+  -  ![result4](https://user-images.githubusercontent.com/91725214/153249413-c87950f2-2862-46a6-b9ae-52bbfd62caad.jpg)
+  - mergging photoes :
+  - ![result5](https://user-images.githubusercontent.com/91725214/153249814-9d6267e9-143a-4e01-9dd3-f5e765259900.png)
+  - Add noise to photo:
+  - ![result7](https://user-images.githubusercontent.com/91725214/153250016-688edd21-6f97-42cd-9552-d7cab07f17dd.png)
+
+
+
+
 
 
   
