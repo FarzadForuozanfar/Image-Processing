@@ -37,6 +37,8 @@
   -  ![result4](https://user-images.githubusercontent.com/91725214/153249413-c87950f2-2862-46a6-b9ae-52bbfd62caad.jpg)
   - mergging photoes :
   - ![result5](https://user-images.githubusercontent.com/91725214/153249814-9d6267e9-143a-4e01-9dd3-f5e765259900.png)
+  - Paiting image with opencv:
+  - ![result6](https://user-images.githubusercontent.com/91725214/153565019-b6480696-7cde-4051-bf92-e2e9abcd1458.png)
   - Add noise to photo:
   - ![result7](https://user-images.githubusercontent.com/91725214/153250016-688edd21-6f97-42cd-9552-d7cab07f17dd.png)
 
