@@ -1,5 +1,5 @@
 # Assignment 23
-## This project has been developed with the library and it works in such a way that it works by executing code and pressing 5 buttons:
+## This project has been developed with the opencv (cv2) library  and it works in such a way that it works by executing code and pressing 5 buttons:
 - 1- Add emoji on the face
 - 2- Add emoji on the eyes and lips
 - 3- Checkering the face
